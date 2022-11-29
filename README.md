@@ -2,7 +2,7 @@
 Temperature reading project, that outputs information into a led, using the raspberry pi pico internal, temperature sensor.
 
 ## Circuit
-![circuit with protoboard](temperature_circuit_bb.jpg)
+![circuit with protoboard](circuit_schema/temperature_circuit_bb.jpg)
 
 ## Code
 ### Pre-requisities
