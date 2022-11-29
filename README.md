@@ -26,4 +26,4 @@ $ make
 ```
 4 - Plug your raspberry pi pico in storage unit mode, this can be done by holding the Bootsel button while connecting the board to the usb.
 
-5 - Copy the ``temperature.uf2`` to the raspberry pi.
+5 - Copy the ``temperature.uf2`` in the ``build folder`` to the raspberry pi.
